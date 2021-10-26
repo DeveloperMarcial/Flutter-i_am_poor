@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: Center(child: Text('I am Poor')),
+        title: Center(child: Text('I am Poor Git')),
         backgroundColor: Colors.amber[900],
       ),
       body: Center(
