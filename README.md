@@ -3,7 +3,9 @@
 My 1st Flutter Project without any Guidance
 
 This project is a Hello World project based on the Apple App Store app called "I am Rich" (see https://en.wikipedia.org/wiki/I_Am_Rich).
-https://github.com/DocMarcial/Flutter/blob/main/images/640-close-up-of-empty-wallet.JPG
+
+![alt text](https://github.com/DocMarcial/Flutter/blob/main/images/640-close-up-of-empty-wallet.JPG?raw=true)
+
 
 ## Getting Started
 
